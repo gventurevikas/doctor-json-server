@@ -1,0 +1,88 @@
+{
+  "id": "1",
+  "website": {
+    "name": "Dr. Ankur Goswami - Spine Surgeon",
+    "tagline": "Leading Spine Surgeon in India",
+    "description": "Expert spine surgeon specializing in advanced spinal procedures and minimally invasive spine surgery",
+    "logo": "/assets/images/logo.png",
+    "favicon": "/assets/images/favicon.ico",
+    "theme": {
+      "primaryColor": "#FF4555",
+      "secondaryColor": "#4CAF50",
+      "accentColor": "#2196F3",
+      "backgroundColor": "#FFFFFF",
+      "textColor": "#333333"
+    }
+  },
+  "features": {
+    "appointmentBooking": true,
+    "onlineConsultation": true,
+    "patientPortal": true,
+    "blog": true,
+    "caseStudies": true,
+    "testimonials": true,
+    "multilingual": false,
+    "darkMode": false
+  },
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "default": true
+    },
+    {
+      "code": "hi",
+      "name": "Hindi",
+      "default": false
+    }
+  ],
+  "analytics": {
+    "googleAnalytics": "GA_MEASUREMENT_ID",
+    "googleTagManager": "GTM-XXXXXXX",
+    "facebookPixel": "XXXXXXXXXX",
+    "hotjar": "XXXXXXXXXX"
+  },
+  "notifications": {
+    "email": {
+      "enabled": true,
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 587,
+        "secure": false
+      }
+    },
+    "sms": {
+      "enabled": true,
+      "provider": "twilio"
+    },
+    "push": {
+      "enabled": false
+    }
+  },
+  "security": {
+    "ssl": true,
+    "cors": {
+      "enabled": true,
+      "origins": [
+        "http://localhost:4200",
+        "http://localhost:4000",
+        "https://dr-ankur-goswami.com"
+      ]
+    },
+    "rateLimit": {
+      "enabled": true,
+      "maxRequests": 100,
+      "windowMs": 900000
+    }
+  },
+  "cache": {
+    "enabled": true,
+    "duration": 3600,
+    "strategy": "memory"
+  },
+  "backup": {
+    "enabled": true,
+    "frequency": "daily",
+    "retention": 30
+  }
+} 

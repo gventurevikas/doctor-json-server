@@ -1,0 +1,187 @@
+[
+  {
+    "id": "1",
+    "title": "Advances in Minimally Invasive Spine Surgery: A Comprehensive Review",
+    "slug": "advances-minimally-invasive-spine-surgery-review",
+    "abstract": "This comprehensive review examines the latest advances in minimally invasive spine surgery techniques, including robotic assistance, navigation systems, and patient outcomes.",
+    "content": "Minimally invasive spine surgery (MISS) has revolutionized the field of spine surgery over the past two decades. This article provides a comprehensive review of current techniques, technologies, and outcomes...",
+    "author": {
+      "name": "Dr. Ankur Goswami",
+      "title": "Spine Surgeon",
+      "institution": "Advanced Spine Institute",
+      "email": "dr.ankur@example.com"
+    },
+    "publicationDate": "2024-01-15",
+    "journal": "Journal of Spine Surgery",
+    "volume": "15",
+    "issue": "2",
+    "pages": "45-62",
+    "doi": "10.1000/jss.2024.001",
+    "keywords": [
+      "minimally invasive spine surgery",
+      "robotic surgery",
+      "patient outcomes",
+      "spine surgery techniques"
+    ],
+    "category": "Research Article",
+    "status": "published",
+    "views": 1250,
+    "citations": 23,
+    "featuredImage": "/assets/images/articles/miss-review.jpg",
+    "pdfUrl": "/assets/pdfs/miss-review-2024.pdf",
+    "seo": {
+      "metaTitle": "Advances in Minimally Invasive Spine Surgery Review | Dr. Ankur Goswami",
+      "metaDescription": "Comprehensive review of advances in minimally invasive spine surgery techniques and outcomes.",
+      "keywords": ["minimally invasive spine surgery", "MISS", "spine surgery review", "robotic surgery"],
+      "author": "Dr. Ankur Goswami"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Robotic-Assisted Spine Surgery: Current Status and Future Directions",
+    "slug": "robotic-assisted-spine-surgery-status-future",
+    "abstract": "This article explores the current state of robotic-assisted spine surgery, including available systems, clinical applications, and future developments in the field.",
+    "content": "Robotic-assisted surgery has emerged as a promising technology in spine surgery, offering enhanced precision and improved patient outcomes. This article reviews current robotic systems...",
+    "author": {
+      "name": "Dr. Ankur Goswami",
+      "title": "Spine Surgeon",
+      "institution": "Advanced Spine Institute",
+      "email": "dr.ankur@example.com"
+    },
+    "publicationDate": "2024-02-20",
+    "journal": "Spine Technology Today",
+    "volume": "8",
+    "issue": "1",
+    "pages": "12-28",
+    "doi": "10.1000/stt.2024.002",
+    "keywords": [
+      "robotic surgery",
+      "spine surgery",
+      "surgical technology",
+      "precision surgery"
+    ],
+    "category": "Technology Review",
+    "status": "published",
+    "views": 890,
+    "citations": 15,
+    "featuredImage": "/assets/images/articles/robotic-surgery.jpg",
+    "pdfUrl": "/assets/pdfs/robotic-spine-surgery-2024.pdf",
+    "seo": {
+      "metaTitle": "Robotic-Assisted Spine Surgery Review | Dr. Ankur Goswami",
+      "metaDescription": "Comprehensive review of robotic-assisted spine surgery technology and applications.",
+      "keywords": ["robotic spine surgery", "surgical robotics", "precision surgery", "spine technology"],
+      "author": "Dr. Ankur Goswami"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Patient Outcomes Following Artificial Disc Replacement: A 5-Year Follow-up Study",
+    "slug": "patient-outcomes-artificial-disc-replacement-5-year-study",
+    "abstract": "This study presents 5-year follow-up results of patients who underwent artificial disc replacement, comparing outcomes with traditional fusion procedures.",
+    "content": "Artificial disc replacement (ADR) has been proposed as an alternative to traditional fusion procedures, with the potential to preserve motion and reduce adjacent segment disease...",
+    "author": {
+      "name": "Dr. Ankur Goswami",
+      "title": "Spine Surgeon",
+      "institution": "Advanced Spine Institute",
+      "email": "dr.ankur@example.com"
+    },
+    "publicationDate": "2024-03-10",
+    "journal": "Clinical Spine Surgery",
+    "volume": "22",
+    "issue": "3",
+    "pages": "78-95",
+    "doi": "10.1000/css.2024.003",
+    "keywords": [
+      "artificial disc replacement",
+      "patient outcomes",
+      "spine surgery",
+      "motion preservation"
+    ],
+    "category": "Clinical Study",
+    "status": "published",
+    "views": 2100,
+    "citations": 42,
+    "featuredImage": "/assets/images/articles/disc-replacement-study.jpg",
+    "pdfUrl": "/assets/pdfs/adr-outcomes-2024.pdf",
+    "seo": {
+      "metaTitle": "Artificial Disc Replacement Outcomes Study | Dr. Ankur Goswami",
+      "metaDescription": "5-year follow-up study of patient outcomes following artificial disc replacement procedures.",
+      "keywords": ["artificial disc replacement", "patient outcomes", "spine surgery study", "motion preservation"],
+      "author": "Dr. Ankur Goswami"
+    }
+  },
+  {
+    "id": "4",
+    "title": "Complex Spine Deformity Correction: Surgical Techniques and Outcomes",
+    "slug": "complex-spine-deformity-correction-techniques-outcomes",
+    "abstract": "This article describes surgical techniques for complex spine deformity correction, including scoliosis, kyphosis, and combined deformities.",
+    "content": "Complex spine deformities present significant challenges to spine surgeons. This article reviews current surgical techniques for deformity correction...",
+    "author": {
+      "name": "Dr. Ankur Goswami",
+      "title": "Spine Surgeon",
+      "institution": "Advanced Spine Institute",
+      "email": "dr.ankur@example.com"
+    },
+    "publicationDate": "2024-04-05",
+    "journal": "Spine Deformity",
+    "volume": "12",
+    "issue": "2",
+    "pages": "156-172",
+    "doi": "10.1000/sd.2024.004",
+    "keywords": [
+      "spine deformity",
+      "scoliosis",
+      "kyphosis",
+      "deformity correction"
+    ],
+    "category": "Surgical Technique",
+    "status": "published",
+    "views": 750,
+    "citations": 18,
+    "featuredImage": "/assets/images/articles/deformity-correction.jpg",
+    "pdfUrl": "/assets/pdfs/deformity-correction-2024.pdf",
+    "seo": {
+      "metaTitle": "Complex Spine Deformity Correction | Dr. Ankur Goswami",
+      "metaDescription": "Surgical techniques and outcomes for complex spine deformity correction.",
+      "keywords": ["spine deformity", "scoliosis correction", "kyphosis treatment", "deformity surgery"],
+      "author": "Dr. Ankur Goswami"
+    }
+  },
+  {
+    "id": "5",
+    "title": "Biologics in Spine Surgery: Current Applications and Future Prospects",
+    "slug": "biologics-spine-surgery-applications-prospects",
+    "abstract": "This review article examines the current use of biologics in spine surgery, including bone morphogenetic proteins, stem cells, and growth factors.",
+    "content": "Biologics have become an integral part of modern spine surgery, offering potential benefits for bone healing and fusion. This article reviews current applications...",
+    "author": {
+      "name": "Dr. Ankur Goswami",
+      "title": "Spine Surgeon",
+      "institution": "Advanced Spine Institute",
+      "email": "dr.ankur@example.com"
+    },
+    "publicationDate": "2024-05-12",
+    "journal": "Spine Research Quarterly",
+    "volume": "18",
+    "issue": "1",
+    "pages": "34-51",
+    "doi": "10.1000/srq.2024.005",
+    "keywords": [
+      "biologics",
+      "bone morphogenetic proteins",
+      "stem cells",
+      "spine fusion"
+    ],
+    "category": "Review Article",
+    "status": "published",
+    "views": 1100,
+    "citations": 29,
+    "featuredImage": "/assets/images/articles/biologics-spine.jpg",
+    "pdfUrl": "/assets/pdfs/biologics-spine-2024.pdf",
+    "seo": {
+      "metaTitle": "Biologics in Spine Surgery Review | Dr. Ankur Goswami",
+      "metaDescription": "Comprehensive review of biologics applications in spine surgery and future prospects.",
+      "keywords": ["biologics", "spine surgery", "bone healing", "stem cells", "growth factors"],
+      "author": "Dr. Ankur Goswami"
+    }
+  }
+] 

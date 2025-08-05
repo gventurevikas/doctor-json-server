@@ -1,0 +1,91 @@
+[
+  {
+    "id": "1",
+    "slug": "home",
+    "title": "Dr. Ankur Goswami - Leading Spine Surgeon",
+    "content": "Welcome to the practice of Dr. Ankur Goswami, a leading spine surgeon specializing in advanced spinal procedures and minimally invasive spine surgery.",
+    "template": "home",
+    "status": "published",
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z",
+    "seo": {
+      "metaTitle": "Dr. Ankur Goswami - Leading Spine Surgeon in India",
+      "metaDescription": "Expert spine surgeon Dr. Ankur Goswami specializes in minimally invasive spine surgery, spinal fusion, and advanced spinal procedures. Book your consultation today.",
+      "keywords": ["spine surgeon", "orthopedic surgery", "minimally invasive spine surgery", "spinal fusion", "India"],
+      "author": "Dr. Ankur Goswami",
+      "ogTitle": "Dr. Ankur Goswami - Leading Spine Surgeon",
+      "ogDescription": "Expert spine surgeon specializing in advanced spinal procedures and minimally invasive techniques.",
+      "ogImage": "/assets/images/doctor/team-1.jpg",
+      "ogUrl": "https://dr-ankur-goswami.com",
+      "ogType": "website",
+      "twitterCard": "summary_large_image",
+      "twitterTitle": "Dr. Ankur Goswami - Leading Spine Surgeon",
+      "twitterDescription": "Expert spine surgeon specializing in advanced spinal procedures.",
+      "twitterImage": "/assets/images/doctor/team-1.jpg",
+      "canonicalUrl": "https://dr-ankur-goswami.com",
+      "structuredData": {
+        "@type": "MedicalBusiness",
+        "name": "Dr. Ankur Goswami Spine Surgery",
+        "description": "Leading spine surgery practice",
+        "url": "https://dr-ankur-goswami.com",
+        "telephone": "+91-XXXXXXXXXX",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Your Address",
+          "addressLocality": "Your City",
+          "addressRegion": "Your State",
+          "postalCode": "XXXXXX",
+          "addressCountry": "IN"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "YOUR_LATITUDE",
+          "longitude": "YOUR_LONGITUDE"
+        },
+        "openingHours": "Mo-Fr 09:00-17:00",
+        "priceRange": "$$"
+      }
+    },
+    "components": [
+      {
+        "id": "1",
+        "type": "hero",
+        "data": {
+          "title": "Welcome to Expert Spine Care",
+          "subtitle": "Leading spine surgeon specializing in advanced procedures",
+          "backgroundImage": "/assets/images/s1.jpg",
+          "ctaText": "Book Appointment",
+          "ctaLink": "/appointment"
+        },
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "slug": "about",
+    "title": "About Dr. Ankur Goswami",
+    "content": "Learn more about Dr. Ankur Goswami's expertise in spine surgery and his commitment to providing the best care for his patients.",
+    "template": "about",
+    "status": "published",
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z",
+    "seo": {
+      "metaTitle": "About Dr. Ankur Goswami - Spine Surgeon | Experience & Expertise",
+      "metaDescription": "Learn about Dr. Ankur Goswami's extensive experience in spine surgery, his qualifications, and commitment to providing exceptional patient care.",
+      "keywords": ["Dr. Ankur Goswami", "spine surgeon", "about", "experience", "expertise"],
+      "author": "Dr. Ankur Goswami",
+      "ogTitle": "About Dr. Ankur Goswami - Spine Surgeon",
+      "ogDescription": "Learn about Dr. Ankur Goswami's extensive experience in spine surgery and his commitment to patient care.",
+      "ogImage": "/assets/images/doctor/team-1.jpg",
+      "ogUrl": "https://dr-ankur-goswami.com/about",
+      "ogType": "website",
+      "twitterCard": "summary_large_image",
+      "twitterTitle": "About Dr. Ankur Goswami - Spine Surgeon",
+      "twitterDescription": "Learn about Dr. Ankur Goswami's extensive experience in spine surgery.",
+      "twitterImage": "/assets/images/doctor/team-1.jpg",
+      "canonicalUrl": "https://dr-ankur-goswami.com/about"
+    },
+    "components": []
+  }
+] 

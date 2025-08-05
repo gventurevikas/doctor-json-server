@@ -1,0 +1,87 @@
+[
+  {
+    "id": "1",
+    "name": "Spine Surgery",
+    "slug": "spine-surgery",
+    "description": "Articles about various spine surgery procedures and techniques",
+    "color": "#FF4555",
+    "icon": "fa-spine",
+    "image": "/assets/images/categories/spine-surgery.jpg",
+    "postCount": 15,
+    "status": "active",
+    "seo": {
+      "metaTitle": "Spine Surgery Articles | Dr. Ankur Goswami",
+      "metaDescription": "Expert articles about spine surgery procedures, techniques, and patient care.",
+      "keywords": ["spine surgery", "orthopedic surgery", "spinal procedures"],
+      "author": "Dr. Ankur Goswami"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Patient Care",
+    "slug": "patient-care",
+    "description": "Tips and guidance for patient care and recovery",
+    "color": "#4CAF50",
+    "icon": "fa-heart",
+    "image": "/assets/images/categories/patient-care.jpg",
+    "postCount": 12,
+    "status": "active",
+    "seo": {
+      "metaTitle": "Patient Care Guide | Dr. Ankur Goswami",
+      "metaDescription": "Comprehensive patient care guides and recovery tips for spine surgery patients.",
+      "keywords": ["patient care", "recovery", "post-surgery care"],
+      "author": "Dr. Ankur Goswami"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Minimally Invasive",
+    "slug": "minimally-invasive",
+    "description": "Information about minimally invasive surgical techniques",
+    "color": "#2196F3",
+    "icon": "fa-microscope",
+    "image": "/assets/images/categories/minimally-invasive.jpg",
+    "postCount": 8,
+    "status": "active",
+    "seo": {
+      "metaTitle": "Minimally Invasive Surgery | Dr. Ankur Goswami",
+      "metaDescription": "Learn about minimally invasive spine surgery techniques and benefits.",
+      "keywords": ["minimally invasive", "MISS", "surgical techniques"],
+      "author": "Dr. Ankur Goswami"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Case Studies",
+    "slug": "case-studies",
+    "description": "Real patient case studies and outcomes",
+    "color": "#9C27B0",
+    "icon": "fa-file-medical",
+    "image": "/assets/images/categories/case-studies.jpg",
+    "postCount": 6,
+    "status": "active",
+    "seo": {
+      "metaTitle": "Spine Surgery Case Studies | Dr. Ankur Goswami",
+      "metaDescription": "Real patient case studies showing successful spine surgery outcomes.",
+      "keywords": ["case studies", "patient outcomes", "success stories"],
+      "author": "Dr. Ankur Goswami"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Technology",
+    "slug": "technology",
+    "description": "Latest technology and innovations in spine surgery",
+    "color": "#FF9800",
+    "icon": "fa-robot",
+    "image": "/assets/images/categories/technology.jpg",
+    "postCount": 4,
+    "status": "active",
+    "seo": {
+      "metaTitle": "Spine Surgery Technology | Dr. Ankur Goswami",
+      "metaDescription": "Latest technology and innovations in spine surgery procedures.",
+      "keywords": ["technology", "innovations", "surgical technology"],
+      "author": "Dr. Ankur Goswami"
+    }
+  }
+] 

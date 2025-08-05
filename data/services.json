@@ -1,0 +1,100 @@
+[
+  {
+    "id": "1",
+    "name": "Minimally Invasive Spine Surgery",
+    "slug": "minimally-invasive-spine-surgery",
+    "description": "Advanced spine surgery techniques using small incisions and specialized instruments for faster recovery.",
+    "shortDescription": "Modern spine surgery with minimal tissue damage and faster recovery",
+    "icon": "fa-spine",
+    "image": "/assets/images/services/miss-surgery.jpg",
+    "category": "Spine Surgery",
+    "duration": "2-4 hours",
+    "recoveryTime": "4-8 weeks",
+    "price": "$$$",
+    "features": [
+      "Smaller incisions",
+      "Less blood loss",
+      "Faster recovery",
+      "Reduced pain",
+      "Minimal scarring"
+    ],
+    "procedures": [
+      "Microdiscectomy",
+      "Laminectomy",
+      "Spinal Fusion",
+      "Disc Replacement"
+    ],
+    "status": "active",
+    "seo": {
+      "metaTitle": "Minimally Invasive Spine Surgery | Dr. Ankur Goswami",
+      "metaDescription": "Expert minimally invasive spine surgery with advanced techniques for faster recovery and less pain.",
+      "keywords": ["minimally invasive spine surgery", "MISS", "spine surgery", "microdiscectomy", "laminectomy"],
+      "author": "Dr. Ankur Goswami"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Spinal Fusion Surgery",
+    "slug": "spinal-fusion-surgery",
+    "description": "Surgical procedure to join vertebrae together to stabilize the spine and relieve pain.",
+    "shortDescription": "Advanced spinal fusion techniques for spine stabilization",
+    "icon": "fa-bone",
+    "image": "/assets/images/services/spinal-fusion.jpg",
+    "category": "Spine Surgery",
+    "duration": "3-6 hours",
+    "recoveryTime": "8-12 weeks",
+    "price": "$$$$",
+    "features": [
+      "Spine stabilization",
+      "Pain relief",
+      "Improved mobility",
+      "Long-term results",
+      "Advanced techniques"
+    ],
+    "procedures": [
+      "Posterior Lumbar Fusion",
+      "Anterior Lumbar Fusion",
+      "360° Fusion",
+      "Cervical Fusion"
+    ],
+    "status": "active",
+    "seo": {
+      "metaTitle": "Spinal Fusion Surgery | Dr. Ankur Goswami",
+      "metaDescription": "Expert spinal fusion surgery for spine stabilization and pain relief.",
+      "keywords": ["spinal fusion", "spine surgery", "vertebrae fusion", "spine stabilization"],
+      "author": "Dr. Ankur Goswami"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Disc Replacement Surgery",
+    "slug": "disc-replacement-surgery",
+    "description": "Surgical replacement of damaged spinal discs with artificial ones to restore mobility.",
+    "shortDescription": "Artificial disc replacement for spine mobility restoration",
+    "icon": "fa-disc",
+    "image": "/assets/images/services/disc-replacement.jpg",
+    "category": "Spine Surgery",
+    "duration": "2-3 hours",
+    "recoveryTime": "6-10 weeks",
+    "price": "$$$$",
+    "features": [
+      "Preserves motion",
+      "Reduces adjacent level disease",
+      "Faster recovery",
+      "Natural movement",
+      "Long-lasting results"
+    ],
+    "procedures": [
+      "Cervical Disc Replacement",
+      "Lumbar Disc Replacement",
+      "Multi-level Replacement"
+    ],
+    "status": "active",
+    "seo": {
+      "metaTitle": "Disc Replacement Surgery | Dr. Ankur Goswami",
+      "metaDescription": "Expert disc replacement surgery to restore spine mobility and reduce pain.",
+      "keywords": ["disc replacement", "artificial disc", "spine mobility", "disc surgery"],
+      "author": "Dr. Ankur Goswami"
+    }
+  }
+] 

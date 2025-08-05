@@ -1,0 +1,81 @@
+[
+  {
+    "id": "1",
+    "title": "Understanding Minimally Invasive Spine Surgery",
+    "slug": "understanding-minimally-invasive-spine-surgery",
+    "excerpt": "Learn about the benefits and procedures of minimally invasive spine surgery, a modern approach to treating spinal conditions with less pain and faster recovery.",
+    "content": "Minimally invasive spine surgery (MISS) is a modern approach to treating various spinal conditions that offers numerous advantages over traditional open surgery. This technique uses smaller incisions, specialized instruments, and advanced imaging technology to perform complex spinal procedures with minimal disruption to surrounding tissues.\n\n## Benefits of Minimally Invasive Spine Surgery\n\n- **Smaller Incisions**: Traditional spine surgery often requires large incisions, while MISS uses incisions as small as 1-2 inches.\n- **Less Blood Loss**: The smaller incisions result in significantly less blood loss during surgery.\n- **Faster Recovery**: Patients typically experience faster recovery times and can return to normal activities sooner.\n- **Reduced Pain**: Less tissue damage means reduced post-operative pain and discomfort.\n- **Lower Risk of Infection**: Smaller incisions reduce the risk of surgical site infections.\n- **Minimal Scarring**: The smaller incisions result in less visible scarring.\n\n## Common Procedures\n\nDr. Ankur Goswami specializes in various minimally invasive spine procedures including:\n\n- **Microdiscectomy**: Removal of herniated disc material\n- **Laminectomy**: Removal of bone spurs and thickened ligaments\n- **Spinal Fusion**: Joining vertebrae together to stabilize the spine\n- **Disc Replacement**: Replacing damaged discs with artificial ones\n\n## Recovery Process\n\nThe recovery process for minimally invasive spine surgery is typically faster than traditional surgery. Most patients can:\n\n- Return home the same day or within 24 hours\n- Resume light activities within 1-2 weeks\n- Return to work within 2-4 weeks (depending on job requirements)\n- Resume full activities within 6-8 weeks\n\n## Consultation\n\nIf you're experiencing back pain or have been diagnosed with a spinal condition, schedule a consultation with Dr. Ankur Goswami to discuss whether minimally invasive spine surgery is right for you.",
+    "featuredImage": "/assets/images/blog/miss-surgery.jpg",
+    "author": {
+      "id": "1",
+      "name": "Dr. Ankur Goswami",
+      "bio": "Leading spine surgeon with over 15 years of experience in advanced spinal procedures",
+      "avatar": "/assets/images/doctor/team-1.jpg",
+      "title": "Spine Surgeon",
+      "email": "dr.ankur@example.com",
+      "social": {
+        "twitter": "@dr_ankur",
+        "linkedin": "dr-ankur-goswami",
+        "website": "https://dr-ankur-goswami.com",
+        "facebook": "dr.ankur.goswami"
+      }
+    },
+    "publishedDate": "2024-01-15T00:00:00Z",
+    "categories": [
+      {
+        "id": "1",
+        "name": "Spine Surgery",
+        "slug": "spine-surgery",
+        "color": "#FF4555",
+        "icon": "fa-spine"
+      }
+    ],
+    "tags": ["spine surgery", "minimally invasive", "MISS", "orthopedic", "recovery"],
+    "readTime": 8,
+    "status": "published",
+    "views": 1250,
+    "likes": 45,
+    "seo": {
+      "metaTitle": "Understanding Minimally Invasive Spine Surgery | Dr. Ankur Goswami",
+      "metaDescription": "Learn about the benefits, procedures, and recovery process of minimally invasive spine surgery from expert spine surgeon Dr. Ankur Goswami.",
+      "keywords": ["minimally invasive spine surgery", "MISS", "spine surgery", "orthopedic surgery", "Dr. Ankur Goswami", "recovery"],
+      "author": "Dr. Ankur Goswami",
+      "ogTitle": "Understanding Minimally Invasive Spine Surgery",
+      "ogDescription": "Learn about the benefits and procedures of minimally invasive spine surgery from expert spine surgeon Dr. Ankur Goswami.",
+      "ogImage": "/assets/images/blog/miss-surgery.jpg",
+      "ogUrl": "https://dr-ankur-goswami.com/blog/understanding-minimally-invasive-spine-surgery",
+      "ogType": "article",
+      "twitterCard": "summary_large_image",
+      "twitterTitle": "Understanding Minimally Invasive Spine Surgery",
+      "twitterDescription": "Learn about the benefits and procedures of minimally invasive spine surgery.",
+      "twitterImage": "/assets/images/blog/miss-surgery.jpg",
+      "canonicalUrl": "https://dr-ankur-goswami.com/blog/understanding-minimally-invasive-spine-surgery",
+      "structuredData": {
+        "@type": "Article",
+        "headline": "Understanding Minimally Invasive Spine Surgery",
+        "description": "Learn about the benefits, procedures, and recovery process of minimally invasive spine surgery.",
+        "image": "/assets/images/blog/miss-surgery.jpg",
+        "author": {
+          "@type": "Person",
+          "name": "Dr. Ankur Goswami",
+          "jobTitle": "Spine Surgeon",
+          "url": "https://dr-ankur-goswami.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Dr. Ankur Goswami Spine Surgery",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "/assets/images/logo.png"
+          }
+        },
+        "datePublished": "2024-01-15T00:00:00Z",
+        "dateModified": "2024-01-15T00:00:00Z",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://dr-ankur-goswami.com/blog/understanding-minimally-invasive-spine-surgery"
+        }
+      }
+    }
+  }
+] 

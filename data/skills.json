@@ -1,0 +1,179 @@
+[
+  {
+    "id": "1",
+    "name": "Minimally Invasive Spine Surgery",
+    "slug": "minimally-invasive-spine-surgery",
+    "description": "Advanced techniques for performing spine surgery through small incisions with minimal tissue damage.",
+    "category": "Surgical Skills",
+    "proficiency": 95,
+    "yearsOfExperience": 15,
+    "icon": "fa-spine",
+    "image": "/assets/images/skills/miss-surgery.jpg",
+    "procedures": [
+      "Microdiscectomy",
+      "Laminectomy",
+      "Spinal Fusion",
+      "Disc Replacement"
+    ],
+    "technologies": [
+      "Robotic Surgery",
+      "Navigation Systems",
+      "Endoscopic Equipment",
+      "3D Imaging"
+    ],
+    "certifications": [
+      "Board Certified in Spine Surgery",
+      "Fellowship in Minimally Invasive Spine Surgery",
+      "Robotic Surgery Certification"
+    ],
+    "status": "active",
+    "seo": {
+      "metaTitle": "Minimally Invasive Spine Surgery Skills | Dr. Ankur Goswami",
+      "metaDescription": "Expert skills in minimally invasive spine surgery with advanced techniques and robotic assistance.",
+      "keywords": ["minimally invasive spine surgery", "MISS", "spine surgery skills", "robotic surgery"],
+      "author": "Dr. Ankur Goswami"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Spinal Fusion Techniques",
+    "slug": "spinal-fusion-techniques",
+    "description": "Comprehensive expertise in various spinal fusion procedures for spine stabilization.",
+    "category": "Surgical Skills",
+    "proficiency": 98,
+    "yearsOfExperience": 18,
+    "icon": "fa-bone",
+    "image": "/assets/images/skills/spinal-fusion.jpg",
+    "procedures": [
+      "Posterior Lumbar Fusion",
+      "Anterior Lumbar Fusion",
+      "360° Fusion",
+      "Cervical Fusion",
+      "Thoracic Fusion"
+    ],
+    "technologies": [
+      "Bone Grafting",
+      "Spinal Implants",
+      "Biologics",
+      "Navigation Systems"
+    ],
+    "certifications": [
+      "Advanced Spinal Fusion Certification",
+      "Biologics in Spine Surgery",
+      "Spinal Implant Specialist"
+    ],
+    "status": "active",
+    "seo": {
+      "metaTitle": "Spinal Fusion Techniques | Dr. Ankur Goswami",
+      "metaDescription": "Expert spinal fusion techniques with advanced biologics and implant technology.",
+      "keywords": ["spinal fusion", "spine stabilization", "bone grafting", "spinal implants"],
+      "author": "Dr. Ankur Goswami"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Disc Replacement Surgery",
+    "slug": "disc-replacement-surgery",
+    "description": "Specialized skills in artificial disc replacement to preserve spine mobility.",
+    "category": "Surgical Skills",
+    "proficiency": 92,
+    "yearsOfExperience": 12,
+    "icon": "fa-disc",
+    "image": "/assets/images/skills/disc-replacement.jpg",
+    "procedures": [
+      "Cervical Disc Replacement",
+      "Lumbar Disc Replacement",
+      "Multi-level Replacement",
+      "Hybrid Procedures"
+    ],
+    "technologies": [
+      "Artificial Discs",
+      "Motion Preservation",
+      "Biomechanical Testing",
+      "Patient-Specific Planning"
+    ],
+    "certifications": [
+      "Disc Replacement Specialist",
+      "Motion Preservation Surgery",
+      "Artificial Disc Technology"
+    ],
+    "status": "active",
+    "seo": {
+      "metaTitle": "Disc Replacement Surgery Skills | Dr. Ankur Goswami",
+      "metaDescription": "Expert disc replacement surgery skills with motion preservation technology.",
+      "keywords": ["disc replacement", "artificial disc", "motion preservation", "spine mobility"],
+      "author": "Dr. Ankur Goswami"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Robotic Spine Surgery",
+    "slug": "robotic-spine-surgery",
+    "description": "Advanced robotic-assisted spine surgery for enhanced precision and outcomes.",
+    "category": "Advanced Technology",
+    "proficiency": 90,
+    "yearsOfExperience": 8,
+    "icon": "fa-robot",
+    "image": "/assets/images/skills/robotic-surgery.jpg",
+    "procedures": [
+      "Robotic-Assisted Fusion",
+      "Robotic Navigation",
+      "Precision Planning",
+      "Real-time Guidance"
+    ],
+    "technologies": [
+      "Da Vinci Surgical System",
+      "Mazor Robotics",
+      "3D Navigation",
+      "AI-Assisted Planning"
+    ],
+    "certifications": [
+      "Robotic Surgery Certification",
+      "AI in Spine Surgery",
+      "Advanced Navigation Systems"
+    ],
+    "status": "active",
+    "seo": {
+      "metaTitle": "Robotic Spine Surgery Skills | Dr. Ankur Goswami",
+      "metaDescription": "Expert robotic spine surgery skills with advanced AI and navigation technology.",
+      "keywords": ["robotic spine surgery", "AI surgery", "precision surgery", "navigation systems"],
+      "author": "Dr. Ankur Goswami"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Complex Spine Reconstruction",
+    "slug": "complex-spine-reconstruction",
+    "description": "Specialized skills in complex spine reconstruction for severe deformities and trauma.",
+    "category": "Specialized Skills",
+    "proficiency": 96,
+    "yearsOfExperience": 20,
+    "icon": "fa-puzzle-piece",
+    "image": "/assets/images/skills/complex-reconstruction.jpg",
+    "procedures": [
+      "Scoliosis Correction",
+      "Kyphosis Treatment",
+      "Trauma Reconstruction",
+      "Revision Surgery",
+      "Multi-level Reconstruction"
+    ],
+    "technologies": [
+      "3D Modeling",
+      "Custom Implants",
+      "Osteotomy Techniques",
+      "Advanced Imaging"
+    ],
+    "certifications": [
+      "Complex Spine Surgery Fellowship",
+      "Deformity Correction Specialist",
+      "Trauma Surgery Certification"
+    ],
+    "status": "active",
+    "seo": {
+      "metaTitle": "Complex Spine Reconstruction Skills | Dr. Ankur Goswami",
+      "metaDescription": "Expert complex spine reconstruction skills for severe deformities and trauma cases.",
+      "keywords": ["complex spine reconstruction", "scoliosis correction", "spine trauma", "deformity correction"],
+      "author": "Dr. Ankur Goswami"
+    }
+  }
+] 

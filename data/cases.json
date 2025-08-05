@@ -1,0 +1,55 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "title": "Complex Spinal Fusion Case Study",
+    "slug": "complex-spinal-fusion-case-study",
+    "description": "A successful case of complex spinal fusion surgery for severe degenerative disc disease.",
+    "fullDescription": "This case study presents the successful treatment of a 45-year-old patient with severe degenerative disc disease who underwent complex spinal fusion surgery. The patient had been suffering from chronic back pain for over 5 years and had tried various conservative treatments without success.\n\n## Patient History\n\nThe patient, a 45-year-old office worker, presented with:\n- Severe lower back pain radiating to both legs\n- Difficulty walking and standing for extended periods\n- Failed conservative treatments including physical therapy and medications\n- MRI showing severe degenerative disc disease at L4-L5 and L5-S1 levels\n\n## Treatment Plan\n\nAfter thorough evaluation, Dr. Ankur Goswami recommended a two-level spinal fusion procedure using:\n- Minimally invasive techniques\n- Advanced instrumentation\n- Bone graft material for fusion\n- Post-operative rehabilitation program\n\n## Surgical Procedure\n\nThe surgery was performed using:\n- Small incisions (less than 2 inches each)\n- Advanced imaging guidance\n- Specialized surgical instruments\n- Minimally invasive approach to preserve muscle tissue\n\n## Results\n\nPost-surgery results:\n- Significant reduction in pain (90% improvement)\n- Improved mobility and function\n- Return to work within 8 weeks\n- No complications during or after surgery\n- Successful fusion confirmed on follow-up imaging\n\n## Follow-up\n\nThe patient continues to do well with:\n- Regular follow-up appointments\n- Continued physical therapy\n- Gradual return to normal activities\n- Excellent long-term outcomes",
+    "profileImage": "/assets/images/cases/case-1.jpg",
+    "specialization": ["Spine Surgery", "Spinal Fusion", "Degenerative Disc Disease"],
+    "symptoms": ["Severe lower back pain", "Leg pain", "Difficulty walking", "Limited mobility"],
+    "diagnosis": "Severe degenerative disc disease at L4-L5 and L5-S1 levels",
+    "treatment": "Two-level spinal fusion using minimally invasive techniques",
+    "outcome": "90% pain reduction, improved mobility, successful return to work",
+    "beforeImage": "/assets/images/cases/before-1.jpg",
+    "afterImage": "/assets/images/cases/after-1.jpg",
+    "patientAge": 45,
+    "patientGender": "male",
+    "procedureDate": "2023-06-15T00:00:00Z",
+    "followUpDate": "2024-01-15T00:00:00Z",
+    "status": "published",
+    "seo": {
+      "metaTitle": "Complex Spinal Fusion Case Study | Dr. Ankur Goswami",
+      "metaDescription": "Read about a successful complex spinal fusion case study. Learn about the treatment, procedure, and outcomes for severe degenerative disc disease.",
+      "keywords": ["spinal fusion", "case study", "degenerative disc disease", "spine surgery", "Dr. Ankur Goswami"],
+      "author": "Dr. Ankur Goswami",
+      "ogTitle": "Complex Spinal Fusion Case Study",
+      "ogDescription": "Read about a successful complex spinal fusion case study with excellent outcomes.",
+      "ogImage": "/assets/images/cases/case-1.jpg",
+      "ogUrl": "https://dr-ankur-goswami.com/cases/complex-spinal-fusion-case-study",
+      "ogType": "article",
+      "twitterCard": "summary_large_image",
+      "twitterTitle": "Complex Spinal Fusion Case Study",
+      "twitterDescription": "Read about a successful complex spinal fusion case study.",
+      "twitterImage": "/assets/images/cases/case-1.jpg",
+      "canonicalUrl": "https://dr-ankur-goswami.com/cases/complex-spinal-fusion-case-study",
+      "structuredData": {
+        "@type": "MedicalCase",
+        "name": "Complex Spinal Fusion Case Study",
+        "description": "A successful case of complex spinal fusion surgery for severe degenerative disc disease.",
+        "image": "/assets/images/cases/case-1.jpg",
+        "author": {
+          "@type": "Person",
+          "name": "Dr. Ankur Goswami",
+          "jobTitle": "Spine Surgeon"
+        },
+        "datePublished": "2024-01-15T00:00:00Z",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://dr-ankur-goswami.com/cases/complex-spinal-fusion-case-study"
+        }
+      }
+    }
+  }
+] 

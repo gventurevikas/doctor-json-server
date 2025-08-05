@@ -1,0 +1,91 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Ankur Goswami",
+    "bio": "Leading spine surgeon with over 15 years of experience in advanced spinal procedures",
+    "slug": "dr-ankur-goswami",
+    "title": "Spine Surgeon",
+    "specialization": ["Spine Surgery", "Minimally Invasive Surgery", "Orthopedic Surgery"],
+    "experience": 15,
+    "education": [
+      "MBBS - Medical College",
+      "MS Orthopedics - University Hospital",
+      "Fellowship in Spine Surgery - International Institute"
+    ],
+    "about": "Dr. Ankur Goswami is a highly skilled and experienced spine surgeon who specializes in advanced spinal procedures and minimally invasive spine surgery. With over 15 years of experience, he has successfully treated thousands of patients with various spinal conditions.",
+    "profileImage": "/assets/images/doctor/team-1.jpg",
+    "rating": 4.8,
+    "totalReviews": 150,
+    "availability": {
+      "monday": [
+        { "start": "09:00", "end": "17:00" }
+      ],
+      "tuesday": [
+        { "start": "09:00", "end": "17:00" }
+      ],
+      "wednesday": [
+        { "start": "09:00", "end": "17:00" }
+      ],
+      "thursday": [
+        { "start": "09:00", "end": "17:00" }
+      ],
+      "friday": [
+        { "start": "09:00", "end": "17:00" }
+      ]
+    },
+    "contact": {
+      "phone": "+91-XXXXXXXXXX",
+      "email": "dr.ankur@example.com",
+      "address": "Your Clinic Address, City, State, PIN",
+      "clinicName": "Dr. Ankur Goswami Spine Surgery Clinic",
+      "social": {
+        "facebook": "dr.ankur.goswami",
+        "twitter": "@dr_ankur",
+        "linkedin": "dr-ankur-goswami"
+      }
+    },
+    "languages": ["English", "Hindi", "Gujarati"],
+    "certifications": [
+      "Board Certified in Orthopedic Surgery",
+      "Fellowship in Spine Surgery",
+      "Advanced Training in Minimally Invasive Techniques"
+    ],
+    "awards": [
+      "Best Spine Surgeon Award 2023",
+      "Excellence in Patient Care 2022"
+    ],
+    "seo": {
+      "metaTitle": "Dr. Ankur Goswami - Leading Spine Surgeon | Book Consultation",
+      "metaDescription": "Meet Dr. Ankur Goswami, a leading spine surgeon with 15+ years of experience. Specializes in minimally invasive spine surgery and advanced spinal procedures.",
+      "keywords": ["Dr. Ankur Goswami", "spine surgeon", "orthopedic surgeon", "minimally invasive surgery", "consultation"],
+      "author": "Dr. Ankur Goswami",
+      "ogTitle": "Dr. Ankur Goswami - Leading Spine Surgeon",
+      "ogDescription": "Meet Dr. Ankur Goswami, a leading spine surgeon with 15+ years of experience.",
+      "ogImage": "/assets/images/doctor/team-1.jpg",
+      "ogUrl": "https://dr-ankur-goswami.com/doctors/dr-ankur-goswami",
+      "ogType": "profile",
+      "twitterCard": "summary_large_image",
+      "twitterTitle": "Dr. Ankur Goswami - Leading Spine Surgeon",
+      "twitterDescription": "Meet Dr. Ankur Goswami, a leading spine surgeon with 15+ years of experience.",
+      "twitterImage": "/assets/images/doctor/team-1.jpg",
+      "canonicalUrl": "https://dr-ankur-goswami.com/doctors/dr-ankur-goswami",
+      "structuredData": {
+        "@type": "Person",
+        "name": "Dr. Ankur Goswami",
+        "jobTitle": "Spine Surgeon",
+        "description": "Leading spine surgeon with over 15 years of experience",
+        "url": "https://dr-ankur-goswami.com/doctors/dr-ankur-goswami",
+        "image": "/assets/images/doctor/team-1.jpg",
+        "sameAs": [
+          "https://www.facebook.com/dr.ankur.goswami",
+          "https://twitter.com/dr_ankur",
+          "https://www.linkedin.com/in/dr-ankur-goswami"
+        ],
+        "worksFor": {
+          "@type": "MedicalBusiness",
+          "name": "Dr. Ankur Goswami Spine Surgery"
+        }
+      }
+    }
+  }
+] 

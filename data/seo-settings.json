@@ -1,0 +1,81 @@
+{
+  "id": "1",
+  "siteName": "Dr. Ankur Goswami - Spine Surgeon",
+  "siteDescription": "Leading spine surgeon specializing in advanced spinal procedures and minimally invasive spine surgery.",
+  "siteKeywords": ["spine surgeon", "orthopedic surgery", "minimally invasive spine surgery", "spinal fusion", "India"],
+  "siteAuthor": "Dr. Ankur Goswami",
+  "siteUrl": "https://dr-ankur-goswami.com",
+  "defaultOgImage": "/assets/images/og-default.jpg",
+  "defaultTwitterImage": "/assets/images/twitter-default.jpg",
+  "googleAnalyticsId": "GA_MEASUREMENT_ID",
+  "googleTagManagerId": "GTM-XXXXXXX",
+  "facebookPixelId": "XXXXXXXXXX",
+  "twitterUsername": "@dr_ankur",
+  "facebookPageId": "XXXXXXXXXX",
+  "linkedinCompanyId": "XXXXXXXXXX",
+  "schemaMarkup": {
+    "organization": {
+      "@type": "MedicalBusiness",
+      "name": "Dr. Ankur Goswami Spine Surgery",
+      "description": "Leading spine surgery practice specializing in advanced spinal procedures",
+      "url": "https://dr-ankur-goswami.com",
+      "telephone": "+91-XXXXXXXXXX",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Your Address",
+        "addressLocality": "Your City",
+        "addressRegion": "Your State",
+        "postalCode": "XXXXXX",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "YOUR_LATITUDE",
+        "longitude": "YOUR_LONGITUDE"
+      },
+      "openingHours": "Mo-Fr 09:00-17:00",
+      "priceRange": "$$",
+      "sameAs": [
+        "https://www.facebook.com/dr.ankur.goswami",
+        "https://twitter.com/dr_ankur",
+        "https://www.linkedin.com/in/dr-ankur-goswami"
+      ]
+    },
+    "medicalBusiness": {
+      "@type": "MedicalBusiness",
+      "name": "Dr. Ankur Goswami Spine Surgery",
+      "medicalSpecialty": "Spine Surgery",
+      "availableService": [
+        {
+          "@type": "MedicalProcedure",
+          "name": "Minimally Invasive Spine Surgery"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Spinal Fusion"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Disc Replacement"
+        }
+      ]
+    },
+    "person": {
+      "@type": "Person",
+      "name": "Dr. Ankur Goswami",
+      "jobTitle": "Spine Surgeon",
+      "description": "Leading spine surgeon with over 15 years of experience",
+      "url": "https://dr-ankur-goswami.com",
+      "image": "/assets/images/doctor/team-1.jpg",
+      "sameAs": [
+        "https://www.facebook.com/dr.ankur.goswami",
+        "https://twitter.com/dr_ankur",
+        "https://www.linkedin.com/in/dr-ankur-goswami"
+      ],
+      "worksFor": {
+        "@type": "MedicalBusiness",
+        "name": "Dr. Ankur Goswami Spine Surgery"
+      }
+    }
+  }
+} 

@@ -1,0 +1,60 @@
+{
+  "id": "1",
+  "clinicName": "Dr. Ankur Goswami Spine Surgery Clinic",
+  "address": {
+    "street": "123 Medical Center Drive",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "postalCode": "400001",
+    "country": "India"
+  },
+  "contact": {
+    "phone": "+91-22-12345678",
+    "mobile": "+91-9876543210",
+    "email": "info@dr-ankur-goswami.com",
+    "emergency": "+91-9876543211"
+  },
+  "hours": {
+    "monday": "09:00 AM - 05:00 PM",
+    "tuesday": "09:00 AM - 05:00 PM",
+    "wednesday": "09:00 AM - 05:00 PM",
+    "thursday": "09:00 AM - 05:00 PM",
+    "friday": "09:00 AM - 05:00 PM",
+    "saturday": "09:00 AM - 02:00 PM",
+    "sunday": "Closed"
+  },
+  "social": {
+    "facebook": "https://facebook.com/dr.ankur.goswami",
+    "twitter": "https://twitter.com/dr_ankur",
+    "linkedin": "https://linkedin.com/in/dr-ankur-goswami",
+    "instagram": "https://instagram.com/dr.ankur.goswami",
+    "youtube": "https://youtube.com/@dr.ankur.goswami"
+  },
+  "location": {
+    "latitude": 19.0760,
+    "longitude": 72.8777,
+    "googleMapsUrl": "https://maps.google.com/?q=19.0760,72.8777"
+  },
+  "services": [
+    "Spine Surgery Consultation",
+    "Minimally Invasive Spine Surgery",
+    "Spinal Fusion Surgery",
+    "Disc Replacement Surgery",
+    "Emergency Spine Care",
+    "Post-Surgery Rehabilitation"
+  ],
+  "insurance": [
+    "Accepted Insurance Plans",
+    "Cash Payment",
+    "Credit Card",
+    "EMI Options Available"
+  ],
+  "facilities": [
+    "Modern Operating Theaters",
+    "Advanced Imaging Equipment",
+    "Comfortable Patient Rooms",
+    "24/7 Emergency Care",
+    "Rehabilitation Center",
+    "Parking Available"
+  ]
+} 
